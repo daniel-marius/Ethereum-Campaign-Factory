@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "ajv-keywords": "^2.1.1",
     "next": "^4.1.4",
     "next-routes": "^1.4.2",
